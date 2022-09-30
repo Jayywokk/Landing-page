@@ -32,7 +32,7 @@ ul{
     justify-content: space-between;
     padding: 0;
     gap: 20px;
-}
+} 
 .links{
     display: flex;
     justify-content: flex-end;
